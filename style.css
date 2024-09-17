@@ -39,6 +39,7 @@ h2 {
   margin: 10px;
   margin-bottom: 10px;
   font-family: "Chakra Petch", sans-serif;
+  text-shadow: 1px 1px 2px white;
 }
 
 p {
@@ -88,7 +89,7 @@ footer {
   position: relative;
   padding-top: 10px;
   background-color: #505160;
-  width: 951px;
+  width: 100%;
   text-align: left;
 }
 
